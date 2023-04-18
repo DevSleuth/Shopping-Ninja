@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-shopping-ninja",
+  "version": "1.0.0",
+  "description": "Ecommerce site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSleuth/Shopping-Ninja.git"
+  },
+  "author": "DevSleuth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSleuth/Shopping-Ninja/issues"
+  },
+  "homepage": "https://github.com/DevSleuth/Shopping-Ninja#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
